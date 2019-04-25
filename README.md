@@ -12,10 +12,10 @@ The true power belongs to me.
 
 ### Título 3
 
-...
+```
 
 if(nota > 6) {
 	printf("Aprovado!");
 }
 
-...
+```
